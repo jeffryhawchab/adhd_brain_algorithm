@@ -6,7 +6,7 @@ This project simulates an ADHD-like brain using Python. The algorithm incorporat
 
 1. **Clone the repository**:  
    ```bash
-   https://github.com/jeffryhawchab/adhd_brain_algorithm
+   git clone https://github.com/jeffryhawchab/adhd_brain_algorithm
    cd adhd_brain_algorithm
    ```
 
