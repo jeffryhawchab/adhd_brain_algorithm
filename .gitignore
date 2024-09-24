@@ -1,0 +1,39 @@
+# Ignore the environment folder
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore .DS_Store (macOS)
+.DS_Store
+
+# Ignore configuration files
+*.ini
+*.cfg
+*.json
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
